@@ -1,0 +1,12 @@
+{
+  "name": "democracy",
+  "version": "1.0.0",
+  "description": "blockchain based democracy",
+  "main": "index.js",
+  "repository": "git@github.com:z3t0/democracy.git",
+  "author": "Rafi Khan <zetoslab@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "multichain-node": "^2.1.1-version1.0-beta1"
+  }
+}
