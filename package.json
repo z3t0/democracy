@@ -6,5 +6,7 @@
   "repository": "git@github.com:z3t0/democracy.git",
   "author": "Rafi Khan <zetoslab@gmail.com>",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "bitcoinjs-lib": "^3.0.3"
+  }
 }
